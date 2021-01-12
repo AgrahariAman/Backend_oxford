@@ -1,4 +1,4 @@
-/*Oxford Dictionary API - created by www.hybridappzone.com*/
+/*Oxford Dictionary API */
 const express = require("express");
 const axios = require("axios");
 const app = express();

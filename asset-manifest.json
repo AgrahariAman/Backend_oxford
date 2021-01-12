@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Backend_oxford/static/css/main.ab0e0662.chunk.css",
+    "main.js": "/Backend_oxford/static/js/main.61f0f27e.chunk.js",
+    "main.js.map": "/Backend_oxford/static/js/main.61f0f27e.chunk.js.map",
+    "runtime-main.js": "/Backend_oxford/static/js/runtime-main.846fe271.js",
+    "runtime-main.js.map": "/Backend_oxford/static/js/runtime-main.846fe271.js.map",
+    "static/js/2.2803bc75.chunk.js": "/Backend_oxford/static/js/2.2803bc75.chunk.js",
+    "static/js/2.2803bc75.chunk.js.map": "/Backend_oxford/static/js/2.2803bc75.chunk.js.map",
+    "index.html": "/Backend_oxford/index.html",
+    "precache-manifest.a39247d973b8621b36d50f3f1e4ae2a6.js": "/Backend_oxford/precache-manifest.a39247d973b8621b36d50f3f1e4ae2a6.js",
+    "service-worker.js": "/Backend_oxford/service-worker.js",
+    "static/css/main.ab0e0662.chunk.css.map": "/Backend_oxford/static/css/main.ab0e0662.chunk.css.map",
+    "static/js/2.2803bc75.chunk.js.LICENSE.txt": "/Backend_oxford/static/js/2.2803bc75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.846fe271.js",
+    "static/js/2.2803bc75.chunk.js",
+    "static/css/main.ab0e0662.chunk.css",
+    "static/js/main.61f0f27e.chunk.js"
+  ]
+}
